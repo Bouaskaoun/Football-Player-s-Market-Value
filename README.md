@@ -1,1 +1,69 @@
 # Football-Players-Market-Value
+
+## Data Set
+Data has been scraped from the publicly available website [sofifa.com](https://sofifa.com/)
+The data set contains 64 variables:
+- NAME 
+- AGE 
+- OVA 
+- POT 
+- TEAM & CONTRACT 
+- HEIGHT 
+- WEIGHT 
+- FOOT 
+- BOV 
+- BP 
+- GROWTH 
+- VALUE 
+- WAGE 
+- RELEASE CLAUSE 
+- ATTACKING 
+- CROSSING 
+- FINISHING 
+- HEADING ACCURACY 
+- SHORT PASSING 
+- VOLLEYS 
+- SKILL 
+- DRIBBLING 
+- CURVE 
+- FK ACCURACY 
+- LONG PASSING 
+- BALL CONTROL 
+- MOVEMENT 
+- ACCELERATION 
+- SPRINT SPEED 
+- AGILITY 
+- REACTIONS 
+- BALANCE 
+- POWER 
+- SHOT POWER 
+- JUMPING 
+- STAMINA 
+- STRENGTH 
+- LONG SHOTS 
+- MENTALITY 
+- AGGRESSION 
+- INTERCEPTIONS 
+- POSITIONING 
+- VISION 
+- PENALTIES 
+- COMPOSURE 
+- DEFENDING 
+- MARKING 
+- STANDING TACKLE 
+- SLIDING TACKLE 
+- GOALKEEPING 
+- GK DIVING 
+- GK HANDLING 
+- GK KICKING 
+- GK POSITIONING 
+- GK REFLEXES 
+- TOTAL 
+- BASE STATS 
+- IR 
+- PAC 
+- SHO 
+- PAS 
+- DRI 
+- DEF 
+- PHY
