@@ -5,14 +5,14 @@ Data has been scraped from the publicly available website [sofifa.com](https://s
 The data set contains 64 variables:
 - NAME 
 - AGE 
-- OVA 
-- POT 
-- TEAM & CONTRACT 
+- OVA : Overall Rating
+- POT : Potential
+- TEAM 
 - HEIGHT 
 - WEIGHT 
 - FOOT 
-- BOV 
-- BP 
+- BOV : Best Overall
+- BP : Best Position
 - GROWTH 
 - VALUE 
 - WAGE 
@@ -60,10 +60,10 @@ The data set contains 64 variables:
 - GK REFLEXES 
 - TOTAL 
 - BASE STATS 
-- IR 
-- PAC 
-- SHO 
-- PAS 
-- DRI 
-- DEF 
-- PHY
+- IR : International Reputation
+- PAC : Pace / Diving
+- SHO : Shooting / Handling
+- PAS : Passing / Kicking
+- DRI : Dribbling / Reflexes
+- DEF : Defending / Pace
+- PHY : Physical / Positioning
