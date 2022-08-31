@@ -1,7 +1,9 @@
 # Football-Players-Market-Value
 
 ## Data Set
-Data has been scraped from the publicly available website [sofifa.com](https://sofifa.com/)
+
+Data has been scraped from the publicly available website [sofifa.com](https://sofifa.com/).
+
 The data set contains 64 variables:
 - NAME 
 - AGE 
