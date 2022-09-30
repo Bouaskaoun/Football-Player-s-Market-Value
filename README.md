@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project has been done to better understand market value of football players. In particular, the objective was to find machines to predict market values based on
+This project has been done to better understand market value of football players. In particular, the objective was to predict market values based on
 most relevant attributes. The data we used was extracted from FIFA 22 database, on all players.
 
 ## Data Set
